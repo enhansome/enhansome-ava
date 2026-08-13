@@ -1,0 +1,478 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "redux-test-recorder",
+          "description": "Generate AVA tests for Redux reducers in a React app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-11T13:53:26Z",
+            "owner": "conorhastings",
+            "repo": "redux-test-recorder",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eslint-plugin-ava",
+          "description": "ESLint rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-13T10:59:57Z",
+            "owner": "avajs",
+            "repo": "eslint-plugin-ava",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atom-ava",
+          "description": "Snippets for Atom.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-10-06T13:15:43Z",
+            "owner": "avajs",
+            "repo": "atom-ava",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ava-codemods",
+          "description": "Codemods that simplifies upgrading to newer versions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-12-26T15:21:09Z",
+            "owner": "avajs",
+            "repo": "ava-codemods",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vscode-ava",
+          "description": "Snippets for Visual Studio Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-09-03T07:29:45Z",
+            "owner": "SamVerschueren",
+            "repo": "vscode-ava",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-ava",
+          "description": "Run tests with Gulp.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-08-05T12:11:43Z",
+            "owner": "avajs",
+            "repo": "gulp-ava",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ava-fast-check",
+          "description": "Property based testing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-06-23T23:52:21Z",
+            "owner": "dubzzz",
+            "repo": "ava-fast-check",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sublime-ava",
+          "description": "Snippets for Sublime.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2018-09-03T05:48:32Z",
+            "owner": "avajs",
+            "repo": "sublime-ava",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-ava-snippets",
+          "description": "Snippets for Vim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-05-08T10:32:22Z",
+            "owner": "ahmedelgabri",
+            "repo": "vim-ava-snippets",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eslint-ava-rule-tester",
+          "description": "Test ESLint plugins with AVA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-07T12:56:13Z",
+            "owner": "jfmengels",
+            "repo": "eslint-ava-rule-tester",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fly-ava",
+          "description": "Run tests with Fly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-28T14:25:11Z",
+            "owner": "taskrjs",
+            "repo": "fly-ava",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jscodeshift-ava-tester",
+          "description": "Test jscodeshift codemods with AVA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-14T23:40:32Z",
+            "owner": "jfmengels",
+            "repo": "jscodeshift-ava-tester",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ava-preact-init",
+          "description": "Set up AVA for Preact.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-12-03T20:09:13Z",
+            "owner": "avajs",
+            "repo": "ava-preact-init",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pava",
+          "description": "Parameterized testing.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-09-01T17:59:50Z",
+            "owner": "TomerAberbach",
+            "repo": "pava",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grunt-ava",
+          "description": "Run tests with Grunt.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-11-03T20:14:19Z",
+            "owner": "avajs",
+            "repo": "grunt-ava",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "start-ava",
+          "description": "Run tests with Start.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-03-05T17:26:12Z",
+            "owner": "start-runner",
+            "repo": "ava",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ava-fixture",
+          "description": "Run fixture/baseline tests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-08-30T06:31:39Z",
+            "owner": "unional",
+            "repo": "ava-fixture",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ava-postgres",
+          "description": "get a fresh Postgres database for every test",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-10T22:41:36Z",
+            "owner": "seamapi",
+            "repo": "ava-postgres",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ava-fixture-docker-db",
+          "description": "Add docker databases to your test contexts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-03T10:36:47Z",
+            "owner": "cdaringe",
+            "repo": "ava-fixture-docker-db",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ava-typescript-worker",
+          "description": "use TypeScript in shared workers",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-02-10T19:59:26Z",
+            "owner": "seamapi",
+            "repo": "ava-typescript-worker",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ava-webcomponents",
+          "description": "Testing web components via Puppeteer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-06T11:31:58Z",
+            "owner": "Wildhoney",
+            "repo": "ava-webcomponents",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ava-tap-json",
+          "description": "JSON output with AVA compatibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-25T18:58:29Z",
+            "owner": "yovasx2",
+            "repo": "ava-tap-json",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sigh-ava",
+          "description": "Run tests with Sigh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-02T16:23:13Z",
+            "owner": "unlight",
+            "repo": "sigh-ava",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redux-ava",
+          "description": "Test helpers for Redux.",
+          "children": []
+        }
+      ],
+      "title": "Packages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "execa",
+          "description": "Test your CLI tools. (Example)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T02:10:22Z",
+            "owner": "sindresorhus",
+            "repo": "execa",
+            "stars": 7583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spectron",
+          "description": "Test Electron apps using AVA and ChromeDriver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-29T13:12:23Z",
+            "owner": "electron-userland",
+            "repo": "spectron",
+            "stars": 1669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leakage",
+          "description": "Memory leak testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-27T16:56:20Z",
+            "owner": "andywer",
+            "repo": "leakage",
+            "stars": 1591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pify",
+          "description": "Promisify callback-style functions for better testing. (Example)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-23T12:49:04Z",
+            "owner": "sindresorhus",
+            "repo": "pify",
+            "stars": 1503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "delay",
+          "description": "Add delays to your tests. (Example)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-31T16:34:15Z",
+            "owner": "sindresorhus",
+            "repo": "delay",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p-event",
+          "description": "Promisify an event. (Example)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-14T08:00:21Z",
+            "owner": "sindresorhus",
+            "repo": "p-event",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "get-stream",
+          "description": "Test the output of streams. (Example)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-28T05:15:33Z",
+            "owner": "sindresorhus",
+            "repo": "get-stream",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-test-server",
+          "description": "Creates a minimal Express server for testing. (Example)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-10T23:25:54Z",
+            "owner": "lukechilds",
+            "repo": "create-test-server",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chūhai",
+          "description": "Run and verify benchmarks using AVA and benchmark.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-12T04:46:16Z",
+            "owner": "Hypercubed",
+            "repo": "chuhai",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "Works with AVA"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:56:11.986Z",
+    "original_repository": "avajs/awesome-ava",
+    "original_repository_sha": "854e6eee165a3edc2e9b1085e773e541d24c66eb",
+    "enhanced_repository": "enhansome/enhansome-ava",
+    "enhanced_repository_description": null,
+    "title": "Awesome AVA with stars"
+  }
+}
