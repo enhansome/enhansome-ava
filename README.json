@@ -348,7 +348,7 @@
             "last_commit": "2026-07-31T02:10:22Z",
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7583
+            "stars": 7584
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2026-03-14T08:00:21Z",
             "owner": "sindresorhus",
             "repo": "p-event",
-            "stars": 450
+            "stars": 451
           }
         },
         {
@@ -468,7 +468,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:56:11.986Z",
+    "last_updated": "2026-08-14T19:49:56.372Z",
     "original_repository": "avajs/awesome-ava",
     "original_repository_sha": "854e6eee165a3edc2e9b1085e773e541d24c66eb",
     "enhanced_repository": "enhansome/enhansome-ava",
