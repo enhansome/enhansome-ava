@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49386194,
             "language": "JavaScript",
             "last_commit": "2016-10-11T13:53:26Z",
             "owner": "conorhastings",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49722492,
             "language": "JavaScript",
             "last_commit": "2026-06-13T10:59:57Z",
             "owner": "avajs",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51739851,
             "language": "JavaScript",
             "last_commit": "2019-10-06T13:15:43Z",
             "owner": "avajs",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 55269267,
             "language": "JavaScript",
             "last_commit": "2018-12-26T15:21:09Z",
             "owner": "avajs",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51763138,
             "language": null,
             "last_commit": "2018-09-03T07:29:45Z",
             "owner": "SamVerschueren",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 42039438,
             "language": "JavaScript",
             "last_commit": "2021-08-05T12:11:43Z",
             "owner": "avajs",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 147577934,
             "language": "JavaScript",
             "last_commit": "2022-06-23T23:52:21Z",
             "owner": "dubzzz",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51739930,
             "language": null,
             "last_commit": "2018-09-03T05:48:32Z",
             "owner": "avajs",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58307080,
             "language": null,
             "last_commit": "2016-05-08T10:32:22Z",
             "owner": "ahmedelgabri",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58584722,
             "language": "JavaScript",
             "last_commit": "2024-01-07T12:56:13Z",
             "owner": "jfmengels",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47042362,
             "language": "JavaScript",
             "last_commit": "2017-06-28T14:25:11Z",
             "owner": "taskrjs",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64325318,
             "language": "JavaScript",
             "last_commit": "2017-01-14T23:40:32Z",
             "owner": "jfmengels",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75490845,
             "language": "JavaScript",
             "last_commit": "2016-12-03T20:09:13Z",
             "owner": "avajs",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 400342073,
             "language": "JavaScript",
             "last_commit": "2025-09-01T17:59:50Z",
             "owner": "TomerAberbach",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 42039703,
             "language": "JavaScript",
             "last_commit": "2017-11-03T20:14:19Z",
             "owner": "avajs",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51256482,
             "language": "JavaScript",
             "last_commit": "2017-03-05T17:26:12Z",
             "owner": "start-runner",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 63132176,
             "language": "TypeScript",
             "last_commit": "2020-08-30T06:31:39Z",
             "owner": "unional",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 531657377,
             "language": "TypeScript",
             "last_commit": "2025-02-10T22:41:36Z",
             "owner": "seamapi",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161956479,
             "language": "TypeScript",
             "last_commit": "2024-08-03T10:36:47Z",
             "owner": "cdaringe",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 484086476,
             "language": "TypeScript",
             "last_commit": "2025-02-10T19:59:26Z",
             "owner": "seamapi",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178438440,
             "language": "JavaScript",
             "last_commit": "2019-04-06T11:31:58Z",
             "owner": "Wildhoney",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184678878,
             "language": "JavaScript",
             "last_commit": "2019-10-25T18:58:29Z",
             "owner": "yovasx2",
@@ -318,24 +340,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48622993,
             "language": "JavaScript",
             "last_commit": "2017-04-02T16:23:13Z",
             "owner": "unlight",
             "repo": "sigh-ava",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "redux-ava",
-          "description": "Test helpers for Redux.",
-          "children": []
         }
       ],
       "title": "Packages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -344,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47475908,
             "language": "JavaScript",
             "last_commit": "2026-07-31T02:10:22Z",
             "owner": "sindresorhus",
@@ -358,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44138456,
             "language": "JavaScript",
             "last_commit": "2024-02-29T13:12:23Z",
             "owner": "electron-userland",
@@ -372,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77452964,
             "language": "JavaScript",
             "last_commit": "2023-01-27T16:56:20Z",
             "owner": "andywer",
@@ -386,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41585934,
             "language": "JavaScript",
             "last_commit": "2026-07-23T12:49:04Z",
             "owner": "sindresorhus",
@@ -400,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46072466,
             "language": "JavaScript",
             "last_commit": "2025-10-31T16:34:15Z",
             "owner": "sindresorhus",
@@ -414,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89505640,
             "language": "JavaScript",
             "last_commit": "2026-03-14T08:00:21Z",
             "owner": "sindresorhus",
@@ -428,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44264225,
             "language": "JavaScript",
             "last_commit": "2024-10-28T05:15:33Z",
             "owner": "sindresorhus",
@@ -442,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93131558,
             "language": "JavaScript",
             "last_commit": "2019-10-10T23:25:54Z",
             "owner": "lukechilds",
@@ -456,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59404640,
             "language": "JavaScript",
             "last_commit": "2018-08-12T04:46:16Z",
             "owner": "Hypercubed",
@@ -468,8 +494,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:29:38.672Z",
+    "last_updated": "2026-08-19T12:18:48.377Z",
     "original_repository": "avajs/awesome-ava",
+    "original_repository_id": 52774899,
     "original_repository_sha": "854e6eee165a3edc2e9b1085e773e541d24c66eb",
     "enhanced_repository": "enhansome/enhansome-ava",
     "enhanced_repository_description": null,
