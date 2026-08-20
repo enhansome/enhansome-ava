@@ -366,7 +366,7 @@
             "last_commit": "2026-07-31T02:10:22Z",
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7588
+            "stars": 7589
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:27:58.764Z",
+    "last_updated": "2026-08-20T19:33:17.727Z",
     "original_repository": "avajs/awesome-ava",
     "original_repository_id": 52774899,
     "original_repository_sha": "854e6eee165a3edc2e9b1085e773e541d24c66eb",
