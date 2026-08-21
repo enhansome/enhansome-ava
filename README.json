@@ -441,7 +441,7 @@
             "last_commit": "2026-03-14T08:00:21Z",
             "owner": "sindresorhus",
             "repo": "p-event",
-            "stars": 451
+            "stars": 450
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:33:17.727Z",
+    "last_updated": "2026-08-21T19:27:35.197Z",
     "original_repository": "avajs/awesome-ava",
     "original_repository_id": 52774899,
     "original_repository_sha": "854e6eee165a3edc2e9b1085e773e541d24c66eb",
