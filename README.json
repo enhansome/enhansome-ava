@@ -494,9 +494,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:42:25.348Z",
-    "original_repository": "avajs/awesome-ava",
-    "original_repository_id": 52774899,
+    "last_updated": "2026-08-27T11:20:19.519Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 52774899,
+      "language": null,
+      "last_commit": "2022-09-12T08:49:21Z",
+      "owner": "avajs",
+      "repo": "awesome-ava",
+      "stars": 356
+    },
     "original_repository_sha": "854e6eee165a3edc2e9b1085e773e541d24c66eb",
     "enhanced_repository": "enhansome/enhansome-ava",
     "enhanced_repository_description": null,
