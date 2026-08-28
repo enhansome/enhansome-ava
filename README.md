@@ -14,7 +14,7 @@
 
 ## Articles
 
-* [Recipes](https://github.com/avajs/ava/tree/main/docs/recipes) ⭐ 20,831 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17
+* [Recipes](https://github.com/avajs/ava/tree/main/docs/recipes) ⭐ 20,831 | 🐛 73 | 🌐 JavaScript | 📅 2026-06-17
 * [Testing React Native apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3)
 * [Getting Started with Create React App and AVA](https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava)
 * [Effortless unit testing with AVA](https://wecodetheweb.com/2016/04/19/effortless-unit-testing-with-ava/)
@@ -35,9 +35,9 @@
 * [ava-fast-check](https://github.com/dubzzz/ava-fast-check) ⚠️ Archived - Property based testing.
 * [sublime-ava](https://github.com/avajs/sublime-ava) ⚠️ Archived - Snippets for Sublime.
 * [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) ⭐ 20 | 🐛 0 | 📅 2016-05-08 - Snippets for Vim.
-* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,487 | 🐛 131 | 🌐 JavaScript | 📅 2026-08-25 plugins with AVA.
+* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,487 | 🐛 133 | 🌐 JavaScript | 📅 2026-08-25 plugins with AVA.
 * [fly-ava](https://github.com/pine/fly-ava) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-28 - Run tests with Fly.
-* [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-14 - Test [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,036 | 🐛 151 | 🌐 JavaScript | 📅 2026-08-11 codemods with AVA.
+* [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-14 - Test [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,039 | 🐛 151 | 🌐 JavaScript | 📅 2026-08-11 codemods with AVA.
 * [ava-preact-init](https://github.com/avajs/ava-preact-init) ⚠️ Archived - Set up AVA for Preact.
 * [pava](https://github.com/TomerAberbach/pava) ⚠️ Archived - Parameterized testing.
 * [grunt-ava](https://github.com/avajs/grunt-ava) ⚠️ Archived - Run tests with Grunt.
@@ -53,11 +53,11 @@
 
 ## Works with AVA
 
-* [execa](https://github.com/sindresorhus/execa) ⭐ 7,592 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-31 - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6) ⭐ 69 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30
+* [execa](https://github.com/sindresorhus/execa) ⭐ 7,594 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-31 - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6) ⭐ 69 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30
 * [Spectron](https://github.com/electron/spectron#with-ava) ⭐ 1,669 | 🐛 264 | 🌐 JavaScript | 📅 2024-02-29 - Test Electron apps using AVA and ChromeDriver.
 * [Leakage](https://github.com/andywer/leakage#usage-with-ava--tape) ⭐ 1,591 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-27 - Memory leak testing.
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,503 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-15
-* [delay](https://github.com/sindresorhus/delay) ⭐ 624 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-31 - Add delays to your tests. [(Example)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39) ⭐ 4,266 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22
+* [delay](https://github.com/sindresorhus/delay) ⭐ 624 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-31 - Add delays to your tests. [(Example)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39) ⭐ 4,265 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22
 * [p-event](https://github.com/sindresorhus/p-event) ⭐ 450 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-14 - Promisify an event. [(Example)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44) ⭐ 220 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-10
 * [get-stream](https://github.com/sindresorhus/get-stream) ⭐ 358 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-28 - Test the output of streams. [(Example)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35) ⭐ 9,742 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-22
 * [create-test-server](https://github.com/lukechilds/create-test-server) ⭐ 119 | 🐛 11 | 🌐 JavaScript | 📅 2019-10-10 - Creates a minimal Express server for testing. [(Example)](https://github.com/lukechilds/clone-response/blob/11f5870e4e1b039e2d9a8f1f72d45fd1b9706bf3/test/clone-response.js) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2024-05-24
@@ -74,10 +74,10 @@
 
 ## Support
 
-* [Github Discussions](https://github.com/avajs/ava/discussions) ⭐ 20,831 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17
+* [Github Discussions](https://github.com/avajs/ava/discussions) ⭐ 20,831 | 🐛 73 | 🌐 JavaScript | 📅 2026-06-17
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
 * [Twitter](https://twitter.com/ava__js)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
