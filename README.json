@@ -16,7 +16,8 @@
             "owner": "conorhastings",
             "repo": "redux-test-recorder",
             "stars": 491
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "avajs",
             "repo": "eslint-plugin-ava",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "avajs",
             "repo": "atom-ava",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "avajs",
             "repo": "ava-codemods",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "SamVerschueren",
             "repo": "vscode-ava",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "avajs",
             "repo": "gulp-ava",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "dubzzz",
             "repo": "ava-fast-check",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "avajs",
             "repo": "sublime-ava",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "ahmedelgabri",
             "repo": "vim-ava-snippets",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "jfmengels",
             "repo": "eslint-ava-rule-tester",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "taskrjs",
             "repo": "fly-ava",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "jfmengels",
             "repo": "jscodeshift-ava-tester",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "avajs",
             "repo": "ava-preact-init",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "TomerAberbach",
             "repo": "pava",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "avajs",
             "repo": "grunt-ava",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "start-runner",
             "repo": "ava",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "unional",
             "repo": "ava-fixture",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "seamapi",
             "repo": "ava-postgres",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "cdaringe",
             "repo": "ava-fixture-docker-db",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "seamapi",
             "repo": "ava-typescript-worker",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "Wildhoney",
             "repo": "ava-webcomponents",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "yovasx2",
             "repo": "ava-tap-json",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "unlight",
             "repo": "sigh-ava",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         }
       ],
       "title": "Packages"
@@ -366,8 +389,9 @@
             "last_commit": "2026-07-31T02:10:22Z",
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7594
-          }
+            "stars": 7595
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "electron-userland",
             "repo": "spectron",
             "stars": 1669
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "andywer",
             "repo": "leakage",
             "stars": 1591
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "sindresorhus",
             "repo": "pify",
             "stars": 1503
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "sindresorhus",
             "repo": "delay",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "sindresorhus",
             "repo": "p-event",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "sindresorhus",
             "repo": "get-stream",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "lukechilds",
             "repo": "create-test-server",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         },
         {
           "node_type": "item",
@@ -487,14 +518,15 @@
             "owner": "Hypercubed",
             "repo": "chuhai",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T02:00:57.472Z"
         }
       ],
       "title": "Works with AVA"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:26:26.021Z",
+    "last_updated": "2026-08-29T02:00:57.472Z",
     "original_repository_info": {
       "archived": false,
       "id": 52774899,
