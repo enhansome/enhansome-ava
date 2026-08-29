@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a redux middleware to automatically generate tests for reducers through ui interaction",
+            "homepage": "http://conor.rodeo/redux-test-recorder/demo/",
             "id": 49386194,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-11T13:53:26Z",
+            "open_issues": 2,
             "owner": "conorhastings",
             "repo": "redux-test-recorder",
-            "stars": 491
+            "stars": 491,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -26,12 +31,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESLint rules for AVA",
+            "homepage": "https://avajs.dev",
             "id": 49722492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-13T10:59:57Z",
+            "open_issues": 0,
             "owner": "avajs",
             "repo": "eslint-plugin-ava",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "ava",
+              "eslint",
+              "eslint-config",
+              "eslint-plugin",
+              "eslint-rules",
+              "hacktoberfest",
+              "javascript",
+              "linting-rules",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -42,12 +62,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Snippets for AVA and run tests directly in the editor",
+            "homepage": "https://atom.io/packages/ava",
             "id": 51739851,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-10-06T13:15:43Z",
+            "open_issues": 9,
             "owner": "avajs",
             "repo": "atom-ava",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "atom",
+              "atom-editor",
+              "ava",
+              "snippets"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -58,12 +88,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Codemods for AVA",
+            "homepage": "https://ava.li",
             "id": 55269267,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-26T15:21:09Z",
+            "open_issues": 1,
             "owner": "avajs",
             "repo": "ava-codemods",
-            "stars": 69
+            "stars": 69,
+            "topics": [
+              "ava",
+              "codemod",
+              "jscodeshift",
+              "migration",
+              "nodejs",
+              "tape"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -74,12 +116,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snippets for AVA",
+            "homepage": "https://marketplace.visualstudio.com/items/samverschueren.ava",
             "id": 51763138,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-09-03T07:29:45Z",
+            "open_issues": 1,
             "owner": "SamVerschueren",
             "repo": "vscode-ava",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -90,12 +137,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Run AVA tests",
+            "homepage": "https://ava.li",
             "id": 42039438,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-05T12:11:43Z",
+            "open_issues": 2,
             "owner": "avajs",
             "repo": "gulp-ava",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "ava",
+              "gulp",
+              "gulp-plugin",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -106,12 +163,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Property based testing for AVA based on fast-check",
+            "homepage": null,
             "id": 147577934,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-23T23:52:21Z",
+            "open_issues": 6,
             "owner": "dubzzz",
             "repo": "ava-fast-check",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "ava",
+              "generative-testing",
+              "property-based-testing",
+              "quickcheck",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -122,12 +190,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Snippets for AVA",
+            "homepage": "https://packagecontrol.io/packages/AVA",
             "id": 51739930,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-09-03T05:48:32Z",
+            "open_issues": 6,
             "owner": "avajs",
             "repo": "sublime-ava",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "ava",
+              "snippets",
+              "sublime-completions",
+              "sublime-package",
+              "sublime-snippets",
+              "sublime-text"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -138,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vim snippets for ava test runner",
+            "homepage": null,
             "id": 58307080,
             "language": null,
+            "license": "MIT",
             "last_commit": "2016-05-08T10:32:22Z",
+            "open_issues": 0,
             "owner": "ahmedelgabri",
             "repo": "vim-ava-snippets",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -154,12 +239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ESLint's RuleTester for AVA",
+            "homepage": null,
             "id": 58584722,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-07T12:56:13Z",
+            "open_issues": 12,
             "owner": "jfmengels",
             "repo": "eslint-ava-rule-tester",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -170,12 +260,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":airplane: A plugin for Fly that run ava tests",
+            "homepage": "https://www.npmjs.com/package/fly-ava",
             "id": 47042362,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-06-28T14:25:11Z",
+            "open_issues": 2,
             "owner": "taskrjs",
             "repo": "fly-ava",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "ava",
+              "fly"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -186,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jscodeshift wrapper to write smaller and better tests for your codemods using AVA",
+            "homepage": null,
             "id": 64325318,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-14T23:40:32Z",
+            "open_issues": 0,
             "owner": "jfmengels",
             "repo": "jscodeshift-ava-tester",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -202,12 +305,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Set up AVA for Preact",
+            "homepage": null,
             "id": 75490845,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-12-03T20:09:13Z",
+            "open_issues": 0,
             "owner": "avajs",
             "repo": "ava-preact-init",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ava",
+              "generate",
+              "initialize",
+              "nodejs",
+              "preact",
+              "scaffold"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -218,12 +333,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🚀 Parameterized tests for ava!",
+            "homepage": "https://npm.im/pava",
             "id": 400342073,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-01T17:59:50Z",
+            "open_issues": 0,
             "owner": "TomerAberbach",
             "repo": "pava",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ava",
+              "avajs",
+              "nodejs",
+              "parameterized",
+              "parameterized-tests",
+              "parametric",
+              "testing",
+              "testing-library"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -234,12 +363,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Run AVA tests",
+            "homepage": "https://ava.li",
             "id": 42039703,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-11-03T20:14:19Z",
+            "open_issues": 1,
             "owner": "avajs",
             "repo": "grunt-ava",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "ava",
+              "grunt",
+              "grunt-plugin",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -250,12 +389,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":space_invader: AVA task for Start",
+            "homepage": null,
             "id": 51256482,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-05T17:26:12Z",
+            "open_issues": 0,
             "owner": "start-runner",
             "repo": "ava",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "ava",
+              "start",
+              "task"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -266,12 +414,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fixture test for https://github.com/avajs/ava",
+            "homepage": null,
             "id": 63132176,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-08-30T06:31:39Z",
+            "open_issues": 0,
             "owner": "unional",
             "repo": "ava-fixture",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ava",
+              "fixture",
+              "nodejs",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -282,12 +440,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐘 instantly stand up full Postgres databases in your AVA tests",
+            "homepage": null,
             "id": 531657377,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-10T22:41:36Z",
+            "open_issues": 7,
             "owner": "seamapi",
             "repo": "ava-postgres",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ava",
+              "postgres",
+              "testcontainers"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -298,12 +465,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "acquire a fresh docker database container attached to your ava test context",
+            "homepage": null,
             "id": 161956479,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-08-03T10:36:47Z",
+            "open_issues": 9,
             "owner": "cdaringe",
             "repo": "ava-fixture-docker-db",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ava",
+              "database",
+              "docker",
+              "node",
+              "postgres",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -314,12 +493,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🪄 register shared TypeScript workers with AVA",
+            "homepage": null,
             "id": 484086476,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-10T19:59:26Z",
+            "open_issues": 2,
             "owner": "seamapi",
             "repo": "ava-typescript-worker",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "ava",
+              "esbuild",
+              "typescript",
+              "worker"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -330,12 +519,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility middleware for testing web components in AVA via Puppeteer.",
+            "homepage": null,
             "id": 178438440,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-06T11:31:58Z",
+            "open_issues": 0,
             "owner": "Wildhoney",
             "repo": "ava-webcomponents",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -346,12 +540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON TAP output formatter.",
+            "homepage": "https://www.npmjs.com/package/ava-tap-json",
             "id": 184678878,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-10-25T18:58:29Z",
+            "open_issues": 0,
             "owner": "yovasx2",
             "repo": "ava-tap-json",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -362,12 +561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adapt ava to work with sighjs",
+            "homepage": null,
             "id": 48622993,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-04-02T16:23:13Z",
+            "open_issues": 0,
             "owner": "unlight",
             "repo": "sigh-ava",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         }
@@ -384,12 +588,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Process execution for humans",
+            "homepage": null,
             "id": 47475908,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T02:10:22Z",
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7595
+            "stars": 7594,
+            "topics": [
+              "binary",
+              "child-process",
+              "exec",
+              "execute",
+              "javascript",
+              "nodejs",
+              "shell",
+              "spawn",
+              "spawned-processes",
+              "streams"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -400,12 +620,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DEPRECATED: 🔎 Test Electron apps using ChromeDriver",
+            "homepage": "http://electronjs.org/spectron",
             "id": 44138456,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-29T13:12:23Z",
+            "open_issues": 264,
             "owner": "electron-userland",
             "repo": "spectron",
-            "stars": 1669
+            "stars": 1669,
+            "topics": [
+              "chromedriver",
+              "electron",
+              "spectron"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -416,12 +645,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐛 Memory leak testing for node.",
+            "homepage": null,
             "id": 77452964,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-27T16:56:20Z",
+            "open_issues": 11,
             "owner": "andywer",
             "repo": "leakage",
-            "stars": 1591
+            "stars": 1591,
+            "topics": [
+              "javascript",
+              "memory-leak",
+              "nodejs",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -432,12 +671,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Promisify a callback-style function",
+            "homepage": null,
             "id": 41585934,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-23T12:49:04Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "pify",
-            "stars": 1503
+            "stars": 1503,
+            "topics": [
+              "promise-utilities",
+              "promises",
+              "promisify"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -448,12 +696,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delay a promise a specified amount of time",
+            "homepage": null,
             "id": 46072466,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-31T16:34:15Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "delay",
-            "stars": 624
+            "stars": 624,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -464,12 +717,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Promisify an event by waiting for it to be emitted",
+            "homepage": null,
             "id": 89505640,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-14T08:00:21Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-event",
-            "stars": 450
+            "stars": 450,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -480,12 +738,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get a stream as a string, Buffer, ArrayBuffer or array",
+            "homepage": null,
             "id": 44264225,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-28T05:15:33Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "get-stream",
-            "stars": 358
+            "stars": 358,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -496,12 +759,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Creates a minimal Express server for testing",
+            "homepage": null,
             "id": 93131558,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-10-10T23:25:54Z",
+            "open_issues": 11,
             "owner": "lukechilds",
             "repo": "create-test-server",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "server",
+              "test",
+              "test-server",
+              "testing",
+              "tests"
+            ]
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         },
@@ -512,12 +786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test driven benchmarking.",
+            "homepage": null,
             "id": 59404640,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-08-12T04:46:16Z",
+            "open_issues": 1,
             "owner": "Hypercubed",
             "repo": "chuhai",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
         }
@@ -526,15 +805,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:00:57.472Z",
+    "last_updated": "2026-08-29T04:44:52.158Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome AVA resources",
+      "homepage": "https://avajs.dev",
       "id": 52774899,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-09-12T08:49:21Z",
+      "open_issues": 1,
       "owner": "avajs",
       "repo": "awesome-ava",
-      "stars": 356
+      "stars": 356,
+      "topics": [
+        "ava",
+        "awesome",
+        "awesome-list",
+        "list",
+        "nodejs"
+      ]
     },
     "original_repository_sha": "854e6eee165a3edc2e9b1085e773e541d24c66eb",
     "enhanced_repository": "enhansome/enhansome-ava",
