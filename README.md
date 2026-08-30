@@ -14,7 +14,7 @@
 
 ## Articles
 
-* [Recipes](https://github.com/avajs/ava/tree/main/docs/recipes) ⭐ 20,830 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17
+* [Recipes](https://github.com/avajs/ava/tree/main/docs/recipes) ⭐ 20,829 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17
 * [Testing React Native apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3)
 * [Getting Started with Create React App and AVA](https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava)
 * [Effortless unit testing with AVA](https://wecodetheweb.com/2016/04/19/effortless-unit-testing-with-ava/)
@@ -35,7 +35,7 @@
 * [ava-fast-check](https://github.com/dubzzz/ava-fast-check) ⚠️ Archived - Property based testing.
 * [sublime-ava](https://github.com/avajs/sublime-ava) ⚠️ Archived - Snippets for Sublime.
 * [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) ⭐ 20 | 🐛 0 | 📅 2016-05-08 - Snippets for Vim.
-* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,489 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-29 plugins with AVA.
+* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,494 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-29 plugins with AVA.
 * [fly-ava](https://github.com/pine/fly-ava) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-28 - Run tests with Fly.
 * [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-14 - Test [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,039 | 🐛 151 | 🌐 JavaScript | 📅 2026-08-11 codemods with AVA.
 * [ava-preact-init](https://github.com/avajs/ava-preact-init) ⚠️ Archived - Set up AVA for Preact.
@@ -74,10 +74,10 @@
 
 ## Support
 
-* [Github Discussions](https://github.com/avajs/ava/discussions) ⭐ 20,830 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17
+* [Github Discussions](https://github.com/avajs/ava/discussions) ⭐ 20,829 | 🐛 74 | 🌐 JavaScript | 📅 2026-06-17
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
 * [Twitter](https://twitter.com/ava__js)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
