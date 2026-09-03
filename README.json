@@ -594,10 +594,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-07-31T02:10:22Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7596,
+            "stars": 7597,
             "topics": [
               "binary",
               "child-process",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T21:37:50.680Z",
+    "last_updated": "2026-09-03T21:35:34.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
