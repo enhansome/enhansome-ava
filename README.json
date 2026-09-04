@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "avajs",
             "repo": "eslint-plugin-ava",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "ava",
               "eslint",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:35:34.980Z",
+    "last_updated": "2026-09-04T21:18:10.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
@@ -817,7 +817,7 @@
       "open_issues": 1,
       "owner": "avajs",
       "repo": "awesome-ava",
-      "stars": 356,
+      "stars": 357,
       "topics": [
         "ava",
         "awesome",
