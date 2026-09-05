@@ -597,7 +597,7 @@
             "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7597,
+            "stars": 7601,
             "topics": [
               "binary",
               "child-process",
@@ -654,7 +654,7 @@
             "open_issues": 11,
             "owner": "andywer",
             "repo": "leakage",
-            "stars": 1591,
+            "stars": 1590,
             "topics": [
               "javascript",
               "memory-leak",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:18:10.422Z",
+    "last_updated": "2026-09-05T20:59:41.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
