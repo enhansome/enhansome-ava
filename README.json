@@ -680,7 +680,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "pify",
-            "stars": 1502,
+            "stars": 1501,
             "topics": [
               "promise-utilities",
               "promises",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:32:17.215Z",
+    "last_updated": "2026-09-10T21:28:30.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
