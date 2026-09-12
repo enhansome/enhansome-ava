@@ -597,7 +597,7 @@
             "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7603,
+            "stars": 7602,
             "topics": [
               "binary",
               "child-process",
@@ -705,7 +705,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "delay",
-            "stars": 624,
+            "stars": 623,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
@@ -723,7 +723,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-14T08:00:21Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-event",
             "stars": 450,
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:35:12.661Z",
+    "last_updated": "2026-09-12T21:17:54.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
