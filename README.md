@@ -35,7 +35,7 @@
 * [ava-fast-check](https://github.com/dubzzz/ava-fast-check) ⚠️ Archived - Property based testing.
 * [sublime-ava](https://github.com/avajs/sublime-ava) ⚠️ Archived - Snippets for Sublime.
 * [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) ⭐ 20 | 🐛 0 | 📅 2016-05-08 - Snippets for Vim.
-* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,499 | 🐛 122 | 🌐 JavaScript | 📅 2026-09-12 plugins with AVA.
+* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,504 | 🐛 126 | 🌐 JavaScript | 📅 2026-09-13 plugins with AVA.
 * [fly-ava](https://github.com/pine/fly-ava) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-28 - Run tests with Fly.
 * [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-14 - Test [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,040 | 🐛 155 | 🌐 JavaScript | 📅 2026-09-11 codemods with AVA.
 * [ava-preact-init](https://github.com/avajs/ava-preact-init) ⚠️ Archived - Set up AVA for Preact.
@@ -80,4 +80,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
