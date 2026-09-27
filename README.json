@@ -629,7 +629,7 @@
             "open_issues": 264,
             "owner": "electron-userland",
             "repo": "spectron",
-            "stars": 1669,
+            "stars": 1670,
             "topics": [
               "chromedriver",
               "electron",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:54:21.212Z",
+    "last_updated": "2026-09-27T21:54:03.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
