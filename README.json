@@ -37,7 +37,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-06-13T10:59:57Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "avajs",
             "repo": "eslint-plugin-ava",
             "stars": 234,
@@ -597,7 +597,7 @@
             "open_issues": 2,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7609,
+            "stars": 7610,
             "topics": [
               "binary",
               "child-process",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:52:10.678Z",
+    "last_updated": "2026-09-30T22:51:34.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
