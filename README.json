@@ -597,7 +597,7 @@
             "open_issues": 3,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7610,
+            "stars": 7611,
             "topics": [
               "binary",
               "child-process",
@@ -726,7 +726,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-event",
-            "stars": 450,
+            "stars": 449,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:14:35.676Z",
+    "last_updated": "2026-10-06T00:39:42.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
