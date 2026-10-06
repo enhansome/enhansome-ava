@@ -14,7 +14,7 @@
 
 ## Articles
 
-* [Recipes](https://github.com/avajs/ava/tree/main/docs/recipes) ⭐ 20,823 | 🐛 85 | 🌐 JavaScript | 📅 2026-06-17
+* [Recipes](https://github.com/avajs/ava/tree/main/docs/recipes) ⭐ 20,824 | 🐛 86 | 🌐 JavaScript | 📅 2026-06-17
 * [Testing React Native apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3)
 * [Getting Started with Create React App and AVA](https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava)
 * [Effortless unit testing with AVA](https://wecodetheweb.com/2016/04/19/effortless-unit-testing-with-ava/)
@@ -27,7 +27,7 @@
 ## Packages
 
 * [redux-test-recorder](https://github.com/conorhastings/redux-test-recorder) ⭐ 490 | 🐛 2 | 🌐 JavaScript | 📅 2016-10-11 - Generate AVA tests for Redux reducers in a React app.
-* [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) ⭐ 234 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-13 - ESLint rules.
+* [eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) ⭐ 234 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-06 - ESLint rules.
 * [atom-ava](https://github.com/avajs/atom-ava) ⚠️ Archived - Snippets for Atom.
 * [ava-codemods](https://github.com/jamestalmage/ava-codemods) ⚠️ Archived - Codemods that simplifies upgrading to newer versions.
 * [vscode-ava](https://github.com/samverschueren/vscode-ava) ⭐ 69 | 🐛 1 | 📅 2018-09-03 - Snippets for Visual Studio Code.
@@ -35,7 +35,7 @@
 * [ava-fast-check](https://github.com/dubzzz/ava-fast-check) ⚠️ Archived - Property based testing.
 * [sublime-ava](https://github.com/avajs/sublime-ava) ⚠️ Archived - Snippets for Sublime.
 * [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) ⭐ 20 | 🐛 0 | 📅 2016-05-08 - Snippets for Vim.
-* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,590 | 🐛 127 | 🌐 JavaScript | 📅 2026-10-05 plugins with AVA.
+* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,597 | 🐛 128 | 🌐 JavaScript | 📅 2026-10-05 plugins with AVA.
 * [fly-ava](https://github.com/pine/fly-ava) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-28 - Run tests with Fly.
 * [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-14 - Test [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,037 | 🐛 157 | 🌐 JavaScript | 📅 2026-10-03 codemods with AVA.
 * [ava-preact-init](https://github.com/avajs/ava-preact-init) ⚠️ Archived - Set up AVA for Preact.
@@ -53,7 +53,7 @@
 
 ## Works with AVA
 
-* [execa](https://github.com/sindresorhus/execa) ⭐ 7,611 | 🐛 3 | 🌐 JavaScript | 📅 2026-07-31 - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6) ⭐ 70 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30
+* [execa](https://github.com/sindresorhus/execa) ⭐ 7,611 | 🐛 4 | 🌐 JavaScript | 📅 2026-07-31 - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6) ⭐ 70 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30
 * [Spectron](https://github.com/electron/spectron#with-ava) ⭐ 1,670 | 🐛 264 | 🌐 JavaScript | 📅 2024-02-29 - Test Electron apps using AVA and ChromeDriver.
 * [Leakage](https://github.com/andywer/leakage#usage-with-ava--tape) ⭐ 1,588 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-27 - Memory leak testing.
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18
@@ -74,7 +74,7 @@
 
 ## Support
 
-* [Github Discussions](https://github.com/avajs/ava/discussions) ⭐ 20,823 | 🐛 85 | 🌐 JavaScript | 📅 2026-06-17
+* [Github Discussions](https://github.com/avajs/ava/discussions) ⭐ 20,824 | 🐛 86 | 🌐 JavaScript | 📅 2026-06-17
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
 * [Twitter](https://twitter.com/ava__js)
 
