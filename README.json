@@ -597,7 +597,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7614,
+            "stars": 7613,
             "topics": [
               "binary",
               "child-process",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:41:05.129Z",
+    "last_updated": "2026-10-09T23:05:21.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
