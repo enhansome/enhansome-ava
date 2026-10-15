@@ -705,7 +705,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "delay",
-            "stars": 624,
+            "stars": 625,
             "topics": []
           },
           "first_seen": "2026-08-29T02:00:57.472Z"
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T22:07:26.777Z",
+    "last_updated": "2026-10-15T21:59:39.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
