@@ -597,7 +597,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7623,
+            "stars": 7622,
             "topics": [
               "binary",
               "child-process",
@@ -680,7 +680,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "pify",
-            "stars": 1502,
+            "stars": 1501,
             "topics": [
               "promise-utilities",
               "promises",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:12:07.491Z",
+    "last_updated": "2026-10-22T22:11:44.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
