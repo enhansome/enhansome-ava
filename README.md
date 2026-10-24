@@ -14,7 +14,7 @@
 
 ## Articles
 
-* [Recipes](https://github.com/avajs/ava/tree/main/docs/recipes) ⭐ 20,823 | 🐛 75 | 🌐 JavaScript | 📅 2026-10-23
+* [Recipes](https://github.com/avajs/ava/tree/main/docs/recipes) ⭐ 20,825 | 🐛 75 | 🌐 JavaScript | 📅 2026-10-23
 * [Testing React Native apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3)
 * [Getting Started with Create React App and AVA](https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava)
 * [Effortless unit testing with AVA](https://wecodetheweb.com/2016/04/19/effortless-unit-testing-with-ava/)
@@ -35,7 +35,7 @@
 * [ava-fast-check](https://github.com/dubzzz/ava-fast-check) ⚠️ Archived - Property based testing.
 * [sublime-ava](https://github.com/avajs/sublime-ava) ⚠️ Archived - Snippets for Sublime.
 * [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) ⭐ 20 | 🐛 0 | 📅 2016-05-08 - Snippets for Vim.
-* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,574 | 🐛 124 | 🌐 JavaScript | 📅 2026-10-23 plugins with AVA.
+* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,581 | 🐛 123 | 🌐 JavaScript | 📅 2026-10-23 plugins with AVA.
 * [fly-ava](https://github.com/pine/fly-ava) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-28 - Run tests with Fly.
 * [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-14 - Test [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,042 | 🐛 163 | 🌐 JavaScript | 📅 2026-10-21 codemods with AVA.
 * [ava-preact-init](https://github.com/avajs/ava-preact-init) ⚠️ Archived - Set up AVA for Preact.
@@ -43,7 +43,7 @@
 * [grunt-ava](https://github.com/avajs/grunt-ava) ⚠️ Archived - Run tests with Grunt.
 * [start-ava](https://github.com/start-runner/ava) ⚠️ Archived - Run tests with Start.
 * [ava-fixture](https://github.com/unional/ava-fixture) ⚠️ Archived - Run fixture/baseline tests.
-* [ava-postgres](https://github.com/seamapi/ava-postgres) ⭐ 5 | 🐛 7 | 🌐 TypeScript | 📅 2025-02-10 - get a fresh Postgres database for every test
+* [ava-postgres](https://github.com/seamapi/ava-postgres) ⭐ 5 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-24 - get a fresh Postgres database for every test
 * [ava-fixture-docker-db](https://github.com/cdaringe/ava-fixture-docker-db) ⭐ 4 | 🐛 9 | 🌐 TypeScript | 📅 2024-08-03 - Add docker databases to your test contexts.
 * [ava-typescript-worker](https://github.com/seamapi/ava-typescript-worker) ⚠️ Archived - use TypeScript in shared workers
 * [ava-webcomponents](https://github.com/Wildhoney/ava-webcomponents) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-06 - Testing web components via Puppeteer.
@@ -53,7 +53,7 @@
 
 ## Works with AVA
 
-* [execa](https://github.com/sindresorhus/execa) ⭐ 7,623 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6) ⭐ 70 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30
+* [execa](https://github.com/sindresorhus/execa) ⭐ 7,624 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6) ⭐ 70 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30
 * [Spectron](https://github.com/electron/spectron#with-ava) ⭐ 1,670 | 🐛 264 | 🌐 JavaScript | 📅 2024-02-29 - Test Electron apps using AVA and ChromeDriver.
 * [Leakage](https://github.com/andywer/leakage#usage-with-ava--tape) ⭐ 1,590 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-27 - Memory leak testing.
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18
@@ -74,10 +74,10 @@
 
 ## Support
 
-* [Github Discussions](https://github.com/avajs/ava/discussions) ⭐ 20,823 | 🐛 75 | 🌐 JavaScript | 📅 2026-10-23
+* [Github Discussions](https://github.com/avajs/ava/discussions) ⭐ 20,825 | 🐛 75 | 🌐 JavaScript | 📅 2026-10-23
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
 * [Twitter](https://twitter.com/ava__js)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
