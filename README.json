@@ -654,7 +654,7 @@
             "open_issues": 11,
             "owner": "andywer",
             "repo": "leakage",
-            "stars": 1590,
+            "stars": 1589,
             "topics": [
               "javascript",
               "memory-leak",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:07:30.272Z",
+    "last_updated": "2026-10-30T22:50:18.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
@@ -814,7 +814,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2022-09-12T08:49:21Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "avajs",
       "repo": "awesome-ava",
       "stars": 357,
