@@ -723,7 +723,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-11T15:18:10Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "p-event",
             "stars": 450,
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:19:08.184Z",
+    "last_updated": "2026-11-01T22:37:15.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
@@ -817,7 +817,7 @@
       "open_issues": 3,
       "owner": "avajs",
       "repo": "awesome-ava",
-      "stars": 357,
+      "stars": 358,
       "topics": [
         "ava",
         "awesome",

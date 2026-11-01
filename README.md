@@ -35,9 +35,9 @@
 * [ava-fast-check](https://github.com/dubzzz/ava-fast-check) ⚠️ Archived - Property based testing.
 * [sublime-ava](https://github.com/avajs/sublime-ava) ⚠️ Archived - Snippets for Sublime.
 * [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) ⭐ 20 | 🐛 0 | 📅 2016-05-08 - Snippets for Vim.
-* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,602 | 🐛 132 | 🌐 JavaScript | 📅 2026-10-31 plugins with AVA.
+* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,604 | 🐛 134 | 🌐 JavaScript | 📅 2026-11-01 plugins with AVA.
 * [fly-ava](https://github.com/pine/fly-ava) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-28 - Run tests with Fly.
-* [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-14 - Test [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,041 | 🐛 165 | 🌐 JavaScript | 📅 2026-10-27 codemods with AVA.
+* [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-14 - Test [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,042 | 🐛 166 | 🌐 JavaScript | 📅 2026-10-27 codemods with AVA.
 * [ava-preact-init](https://github.com/avajs/ava-preact-init) ⚠️ Archived - Set up AVA for Preact.
 * [pava](https://github.com/TomerAberbach/pava) ⚠️ Archived - Parameterized testing.
 * [grunt-ava](https://github.com/avajs/grunt-ava) ⚠️ Archived - Run tests with Grunt.
@@ -57,9 +57,9 @@
 * [Spectron](https://github.com/electron/spectron#with-ava) ⭐ 1,670 | 🐛 264 | 🌐 JavaScript | 📅 2024-02-29 - Test Electron apps using AVA and ChromeDriver.
 * [Leakage](https://github.com/andywer/leakage#usage-with-ava--tape) ⭐ 1,589 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-27 - Memory leak testing.
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18
-* [delay](https://github.com/sindresorhus/delay) ⭐ 625 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Add delays to your tests. [(Example)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39) ⭐ 4,305 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-16
-* [p-event](https://github.com/sindresorhus/p-event) ⭐ 450 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11 - Promisify an event. [(Example)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44) ⭐ 220 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18
-* [get-stream](https://github.com/sindresorhus/get-stream) ⭐ 361 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Test the output of streams. [(Example)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35) ⭐ 9,769 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-31
+* [delay](https://github.com/sindresorhus/delay) ⭐ 625 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Add delays to your tests. [(Example)](https://github.com/sindresorhus/p-queue/blob/a3a5cadefc2b54269f4939bb34e8dc180c3bd800/test.js#L39) ⭐ 4,306 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-16
+* [p-event](https://github.com/sindresorhus/p-event) ⭐ 450 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-11 - Promisify an event. [(Example)](https://github.com/sindresorhus/gulp-debug/blob/4db5871594742a346d17aa9b34f43c87d4e54934/test.js#L42-L44) ⭐ 220 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18
+* [get-stream](https://github.com/sindresorhus/get-stream) ⭐ 361 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Test the output of streams. [(Example)](https://github.com/sindresorhus/ora/blob/4ceeedd51795bb88a8033229d198e70cd8a2aff7/test.js#L33-L35) ⭐ 9,768 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-31
 * [create-test-server](https://github.com/lukechilds/create-test-server) ⭐ 119 | 🐛 11 | 🌐 JavaScript | 📅 2019-10-10 - Creates a minimal Express server for testing. [(Example)](https://github.com/lukechilds/clone-response/blob/11f5870e4e1b039e2d9a8f1f72d45fd1b9706bf3/test/clone-response.js) ⭐ 32 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18
 * [Chūhai](https://github.com/Hypercubed/chuhai) ⭐ 87 | 🐛 1 | 🌐 JavaScript | 📅 2018-08-12 - Run and verify benchmarks using AVA and benchmark.js.
 
@@ -80,4 +80,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
