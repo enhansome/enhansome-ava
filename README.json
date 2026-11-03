@@ -597,7 +597,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7634,
+            "stars": 7633,
             "topics": [
               "binary",
               "child-process",
@@ -629,7 +629,7 @@
             "open_issues": 264,
             "owner": "electron-userland",
             "repo": "spectron",
-            "stars": 1670,
+            "stars": 1669,
             "topics": [
               "chromedriver",
               "electron",
@@ -654,7 +654,7 @@
             "open_issues": 11,
             "owner": "andywer",
             "repo": "leakage",
-            "stars": 1589,
+            "stars": 1588,
             "topics": [
               "javascript",
               "memory-leak",
@@ -722,8 +722,8 @@
             "id": 89505640,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T15:18:10Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-02T19:33:18Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "p-event",
             "stars": 450,
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:37:15.501Z",
+    "last_updated": "2026-11-03T01:27:54.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
