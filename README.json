@@ -445,7 +445,7 @@
             "id": 531657377,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T17:11:55Z",
+            "last_commit": "2026-11-07T01:06:30Z",
             "open_issues": 11,
             "owner": "seamapi",
             "repo": "ava-postgres",
@@ -654,7 +654,7 @@
             "open_issues": 11,
             "owner": "andywer",
             "repo": "leakage",
-            "stars": 1588,
+            "stars": 1589,
             "topics": [
               "javascript",
               "memory-leak",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:40:19.714Z",
+    "last_updated": "2026-11-07T22:31:07.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
