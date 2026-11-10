@@ -445,8 +445,8 @@
             "id": 531657377,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T01:06:30Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-09T21:17:34Z",
+            "open_issues": 5,
             "owner": "seamapi",
             "repo": "ava-postgres",
             "stars": 5,
@@ -597,7 +597,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7632,
+            "stars": 7635,
             "topics": [
               "binary",
               "child-process",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:41:35.636Z",
+    "last_updated": "2026-11-10T01:54:37.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
@@ -814,7 +814,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2022-09-12T08:49:21Z",
-      "open_issues": 3,
+      "open_issues": 2,
       "owner": "avajs",
       "repo": "awesome-ava",
       "stars": 358,
