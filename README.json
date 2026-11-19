@@ -593,8 +593,8 @@
             "id": 47475908,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T09:14:17Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-18T09:01:26Z",
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "execa",
             "stars": 7646,
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:31:33.701Z",
+    "last_updated": "2026-11-19T00:59:57.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
