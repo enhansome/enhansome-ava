@@ -597,7 +597,7 @@
             "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7674,
+            "stars": 7680,
             "topics": [
               "binary",
               "child-process",
@@ -629,7 +629,7 @@
             "open_issues": 264,
             "owner": "electron-userland",
             "repo": "spectron",
-            "stars": 1669,
+            "stars": 1668,
             "topics": [
               "chromedriver",
               "electron",
@@ -680,7 +680,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "pify",
-            "stars": 1502,
+            "stars": 1501,
             "topics": [
               "promise-utilities",
               "promises",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:05:15.442Z",
+    "last_updated": "2026-11-27T02:03:42.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome AVA resources",
