@@ -35,9 +35,9 @@
 * [ava-fast-check](https://github.com/dubzzz/ava-fast-check) ⚠️ Archived - Property based testing.
 * [sublime-ava](https://github.com/avajs/sublime-ava) ⚠️ Archived - Snippets for Sublime.
 * [vim-ava-snippets](https://github.com/ahmedelgabri/vim-ava-snippets) ⭐ 20 | 🐛 0 | 📅 2016-05-08 - Snippets for Vim.
-* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,651 | 🐛 157 | 🌐 JavaScript | 📅 2026-11-26 plugins with AVA.
+* [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) ⭐ 14 | 🐛 12 | 🌐 JavaScript | 📅 2024-01-07 - Test [ESLint](https://github.com/eslint/eslint) ⭐ 27,650 | 🐛 157 | 🌐 JavaScript | 📅 2026-11-27 plugins with AVA.
 * [fly-ava](https://github.com/pine/fly-ava) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2017-06-28 - Run tests with Fly.
-* [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-14 - Test [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,048 | 🐛 165 | 🌐 JavaScript | 📅 2026-11-14 codemods with AVA.
+* [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-14 - Test [jscodeshift](https://github.com/facebook/jscodeshift) ⭐ 10,049 | 🐛 167 | 🌐 JavaScript | 📅 2026-11-14 codemods with AVA.
 * [ava-preact-init](https://github.com/avajs/ava-preact-init) ⚠️ Archived - Set up AVA for Preact.
 * [pava](https://github.com/TomerAberbach/pava) ⚠️ Archived - Parameterized testing.
 * [grunt-ava](https://github.com/avajs/grunt-ava) ⚠️ Archived - Run tests with Grunt.
@@ -53,7 +53,7 @@
 
 ## Works with AVA
 
-* [execa](https://github.com/sindresorhus/execa) ⭐ 7,680 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-18 - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6) ⭐ 71 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30
+* [execa](https://github.com/sindresorhus/execa) ⭐ 7,684 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-18 - Test your CLI tools. [(Example)](https://github.com/sindresorhus/active-win-cli/blob/d01813762b304102d1fee147855481e9f38c8517/test.js#L5-L6) ⭐ 71 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-30
 * [Spectron](https://github.com/electron/spectron#with-ava) ⭐ 1,668 | 🐛 264 | 🌐 JavaScript | 📅 2024-02-29 - Test Electron apps using AVA and ChromeDriver.
 * [Leakage](https://github.com/andywer/leakage#usage-with-ava--tape) ⭐ 1,589 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-27 - Memory leak testing.
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify callback-style functions for better testing. [(Example)](https://github.com/sindresorhus/registry-url/blob/eb1f0e01722208366c9199b96235fd043ec162ae/test.js#L6) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18
@@ -80,4 +80,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
